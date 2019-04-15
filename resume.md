@@ -80,7 +80,7 @@ Java, C++, C, Groovy, JavaScript, C#, C++/CLI, AWS, Ant, Ivy, Maven, PowerShell,
 
 * **New Hope Church, State College, PA, 03/2016 - Present**
 
-    Sound Engineer and Leadership Team member, responsible for equipment management and live sound mixing, website management and maintenance,.
+    Sound Engineer and Leadership Team member, responsible for equipment management and live sound mixing, website management and maintenance.
 
 * **The Cause Church, Elkridge, MD, 01/2013 - 10/2014**
 
