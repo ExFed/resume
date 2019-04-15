@@ -74,7 +74,7 @@ david.allen@columnzero.com
 
 ## Languages, Frameworks & Technologies
 
-Java, C++, C, Groovy, JavaScript, C#, C++/CLI, AWS, Ant, Ivy, Maven, PowerShell, MATLAB/Octave, LDAP, SQL, MongoDB, PostgreSQL, Neo4j, JAX-RS, JNDI, Winsock, Wireshark, Wicket, Axis2, Swagger/OpenAPI, Spring Framework, ASP.[]()NET MVC, VirtualBox, Vagrant, Tomcat, jBoss, WebLogic
+Ant/Ivy, ASP.[]()NET MVC, AWS, Axis2, Bash, Blazegraph, C, C#, C++, C++/CLI, Docker, Gradle, Groovy, Java, JavaScript, JAX-RS, jBoss, Jenkins, JNDI, LDAP, MATLAB/Octave, Maven, MongoDB, Neo4j, PostgreSQL, PowerShell, Spring Framework, Swagger/OpenAPI, Tomcat, Vagrant, VirtualBox, WebLogic, Wicket, Winsock, Wireshark
 
 ## Volunteer Work
 
