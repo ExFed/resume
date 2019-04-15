@@ -10,7 +10,11 @@ david.allen@columnzero.com
 
 ## Professional Experience
 
-* Raytheon Information, Intelligence and Systems, State College, PA, 03/2016 - Present
+* Applied Research Lab, Pennsylvania State University, State College, PA, 11/2018 - Present
+
+    Research & Development Engineer
+
+* Raytheon Information, Intelligence and Systems, State College, PA, 03/2016 - 11/2018
 
     Software Engineer responsible for assisting development, design, and maintenance of cloud-based microservices, e.g. scalable RESTful CRUD knowledge store, graph validation framework, data provenance service, performant HA streaming ETL; maintaining and improving DevOps, and evaluating for purchase a static analysis tool used to determine license obligations and common vulnerabilities in source code. SSBI as of 03/2017.
 
